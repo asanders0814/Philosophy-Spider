@@ -18,3 +18,5 @@ def getFirstLink(link):
 while userLink != "https://en.wikipedia.org/wiki/Philosophy":
   userLink = getFirstLink(userLink)
   print(userLink)
+
+# this is a comment
